@@ -1,1 +1,3 @@
-- Pending final paper and code submission (to be updated)
+# Submissions
+
+- Write a research paper about a topic in ML
