@@ -1,6 +1,6 @@
 # Course Introduction
 
-Linear algebra is a critical foundation for computational and data science, enabling efficient problem-solving in various applications. Upon completion, badge earners have demonstrated proficiency in advanced linear algebra concepts, applied practical algorithms for matrix computations, and assessed the impact of floating-point arithmetic on numerical accuracy in computing.
+Linear algebra is one of the fundamental tools for computational and data scientists. In Advanced Linear Algebra for Computing, you build your knowledge, understanding, and skills in linear algebra, practical algorithms for matrix computations, and analyzing the effects on correctness of floating-point arithmetic as performed by computers.
 
 # Textbook
 

@@ -1,6 +1,6 @@
 # Course Introduction
 
-Badge earners have completed a broad introduction to the principles and paradigms of machine learning, covering major concepts, techniques, algorithms, and applications. Upon completion, badge earners are equipped to apply machine learning methods to real-world data analysis problems, gaining hands-on experience in developing practical solutions.
+The Case Studies in Machine Learning course presents a broad introduction to the principles and paradigms underlying machine learning, including presentations of its main approaches, overviews of its most important research themes and new challenges faced by traditional machine learning methods. This course highlights major concepts, techniques, algorithms, and applications in machine learning, from topics such as supervised and unsupervised learning to major recent applications in housing market analysis and transportation. Through this course, students will gain experience by using machine learning methods and developing solutions for a real-world data analysis problems from practical case studies.
 
 # Submissions
 
