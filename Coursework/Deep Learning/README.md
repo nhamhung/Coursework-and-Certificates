@@ -13,3 +13,9 @@ Part 2 covers a series of application areas of deep networks in: computer vision
 # Code
 
 - Cannot display due to course policy
+
+# Demo Video
+
+# Completion Badge
+
+[Deep Learning](https://badgr.com/public/assertions/2KseBaXRR5CX9gbBDPTMPA)

@@ -8,4 +8,4 @@ The Case Studies in Machine Learning course presents a broad introduction to the
 
 # Completion Badge
 
-[Case Studies in Machine Learning](https://badgr.com/public/assertions/1i4dEzdvSMKGTE6ux6qhNw?identity__email=nhamhung.gttn@gmail.com)
+[Case Studies in Machine Learning](https://badgr.com/public/assertions/1i4dEzdvSMKGTE6ux6qhNw)

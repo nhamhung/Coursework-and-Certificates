@@ -12,4 +12,4 @@ Linear algebra is one of the fundamental tools for computational and data scient
 
 # Completion Badge
 
-[Advanced Linear Algebra for Computation](https://badgr.com/public/assertions/7LiS9XZ-TH-1i0Av7RkLNw?identity__email=nhamhung.gttn@gmail.com)
+[Advanced Linear Algebra for Computation](https://badgr.com/public/assertions/7LiS9XZ-TH-1i0Av7RkLNw)

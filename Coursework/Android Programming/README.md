@@ -7,3 +7,7 @@ The course assumes familiarity with programming and object-oriented terminology.
 # Code
 
 - Cannot display due to course policy
+
+# Completion Badge
+
+[Android Programming](https://badgr.com/backpack/badges/67f80bf33e3f9565a256df2d)
