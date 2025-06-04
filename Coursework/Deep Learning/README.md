@@ -16,6 +16,8 @@ Part 2 covers a series of application areas of deep networks in: computer vision
 
 # Demo Video
 
+![Video](https://github.com/nhamhung/Coursework-and-Certificates/blob/main/Coursework/Deep%20Learning/AQN0wShjk1E1FZOQ6Y4ZZQjvemgTOLrMPKWlGHGUgop4yjnk7NUz1Lk6YHuZKMOoDkSa5H0gEGcBrfmh-5BiPtIi.mp4)
+
 # Completion Badge
 
 [Deep Learning](https://badgr.com/public/assertions/2KseBaXRR5CX9gbBDPTMPA)
